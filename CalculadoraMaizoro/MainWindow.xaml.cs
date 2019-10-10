@@ -34,6 +34,8 @@ namespace CalculadoraMaizoro
             Console.WriteLine("Hola");
 			Console.WriteLine("Hola");
 			Console.WriteLine("Hola");
+			Console.WriteLine("Hola1");
+			Console.WriteLine("Hola2");
         }
 
         public void suma() {
